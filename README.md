@@ -1,2 +1,2 @@
 test
-bug fix
+fixed another bug
